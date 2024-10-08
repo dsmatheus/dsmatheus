@@ -11,4 +11,4 @@
 
 # 📫 Como me encontrar
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:matheus_santos_ti@outlook.com)
-[![(https://www.linkedin.com/in/matheus-scarmo/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-scarmo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-scarmo/)
