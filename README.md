@@ -1,5 +1,5 @@
 ### Olá! 👋 Eu sou o Matheus Carmo!
 
-## 📫 Como me encontrar
+# 📫 Como me encontrar
 - Email: [seu-email@email.com](mailto:seu-email@email.com)
-- LinkedIn: [Seu Perfil no LinkedIn](link-do-linkedin)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
