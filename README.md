@@ -10,7 +10,7 @@ Sou desenvolvedor web. Estou a cada dia adquirindo experiências com JS, HTML, C
 ### 🚀 Meu Portfólio
 
 ### Front-end
-- [Projeto 1 - Calculo IMC](https://github.com/dsmatheus/introducao-javascript/tree/main/Calculo%20IMC)
+- [Projeto 1 - Calculo IMC](https://github.com/dsmatheus/Javascript-Projects/tree/main/Calcula%20IMC)
 - [Projeto 2 - Adivinhe o número](https://github.com/dsmatheus/introducao-javascript/tree/main/Adivinhe%20o%20numero)
 
 ### 📫 Como me encontrar
