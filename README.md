@@ -10,7 +10,8 @@ Sou desenvolvedor web. Estou a cada dia adquirindo experiências com JS, HTML, C
 ### 🚀 Meu Portfólio
 
 ### Front-end
-- [Projeto 1 - Adivinhe o número](https://github.com/dsmatheus/introducao-javascript/tree/main/Adivinhe%20o%20numero)
+- [Projeto 1 - Calculo IMC](https://github.com/dsmatheus/introducao-javascript/tree/main/Calculo%20IMC)
+- [Projeto 2 - Adivinhe o número](https://github.com/dsmatheus/introducao-javascript/tree/main/Adivinhe%20o%20numero)
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-scarmo/)
